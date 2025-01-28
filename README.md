@@ -12,3 +12,31 @@ Key Features:
 
 [DEMO LINK](https://save-v.github.io/B-O-landing/)
     
+How to Clone and Run the Project:
+
+Clone the repository:
+
+• Open your terminal (or Git Bash) and navigate to the folder where you want to store the project.
+
+• Run the following command to clone the repository:
+
+git clone https://github.com/save-v/B-O-landing.git
+
+Navigate to the project directory:
+cd b-o-landing-page
+
+Install dependencies:
+
+• Make sure you have Node.js installed. If not, download and install it from Node.js official website.
+
+• Install the necessary project dependencies:
+
+npm install
+
+Run the project locally:
+
+• Start the local development server:
+
+npm start
+
+• Open your browser and go to http://localhost:3000 to see the landing page in action.
