@@ -10,5 +10,5 @@ Key Features:
 
 • Optimized for performance with fast load times and minimal dependencies.
 
-    - [DEMO LINK](https://save-v.github.io/B-O-landing/)
+DEMO LINK
     
