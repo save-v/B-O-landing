@@ -34,10 +34,8 @@ Install dependencies:
 
 npm install
 
-Run the project locally:
+• Run the project locally:
 
-• Start the project by running the following command:
+Start the project by running the following command:
 
 npm start
-
-• Open your browser and go to http://localhost:3000 to see the landing page in action.
