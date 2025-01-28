@@ -11,6 +11,8 @@ Key Features:
 • Optimized for performance with fast load times and minimal dependencies.
 
 [DEMO LINK](https://save-v.github.io/B-O-landing/)
+
+[Figma](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=dFsHwOGGzFxzeu33-0)
     
 How to Clone and Run the Project:
 
