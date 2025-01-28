@@ -24,8 +24,7 @@ Clone the repository:
 
 git clone https://github.com/save-v/B-O-landing.git
 
-Navigate to the project directory:
-cd b-o-landing-page
+• Open the cloned project in your development environment.
 
 Install dependencies:
 
@@ -37,7 +36,7 @@ npm install
 
 Run the project locally:
 
-• Start the local development server:
+• Start the project by running the following command:
 
 npm start
 
